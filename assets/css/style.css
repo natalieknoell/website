@@ -238,7 +238,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #DA7B93;}
     -o-transition: 0.3s linear; 
     transition: 0.3s linear;
 }
-.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#9f00ff;border: 1px solid #9f00ff;}
+.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#1c3334;border: 1px solid #1c3334;}
 /*.header-text-area*/
 
 /*-------------------------------------
@@ -743,8 +743,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     
 }
 .single-contact-btn:hover{
-    background: #9f00ff;
-    border: 1px solid #9f00ff;
+    background: #1c3334;
+    border: 1px solid #1c3334;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
 }
 
